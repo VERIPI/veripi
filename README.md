@@ -1,4 +1,4 @@
-### Hi there 👋
+### VERIPI
 
 <!--
 **VERIPI/veripi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+KYC IS BACKLOGGD! Pi network needs users to be
+Able to verify their identity inorder to get to the main net
